@@ -13,5 +13,8 @@ public class AplicacionConFactory {
         Vehiculo suv = VehiculoFactory.createVehiculo("SUV");
         suv.realizarMantenimiento();
 
+        Vehiculo otro = VehiculoFactory.createVehiculo("DESC");
+        otro.realizarMantenimiento();
+
     }
 }

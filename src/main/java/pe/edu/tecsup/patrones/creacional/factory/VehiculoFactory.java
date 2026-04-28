@@ -18,7 +18,7 @@ public class VehiculoFactory {
         } else if("BUS".equalsIgnoreCase(tipoVehiculo)) {
             return new Bus();
         } else {
-            return null;
+            throw new RuntimeException("Vehiculo no existe");
         }
     }
 }
