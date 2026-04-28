@@ -1,4 +1,4 @@
-package pe.edu.tecsup.patrones.creacional.factory;
+package pe.edu.tecsup.patrones.creacional.factory.caso1;
 
 public class Sedan implements Vehiculo{
 
