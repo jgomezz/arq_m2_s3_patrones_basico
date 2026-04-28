@@ -1,9 +1,9 @@
 # Proyecto Básico de Patrones
 
 ### 1. Patrones Creacionales
-    -  **Factory**
-    -  **Builder**
-    -  **Singleton**
+-  **Factory**
+-  **Builder** 
+-  **Singleton**
 
 ### 2. Patrones Estructurales
 
