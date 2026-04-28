@@ -2,3 +2,5 @@
 
 ### 1. Patrones Creacionales
     -  **Factory**
+    -  **Builder**
+    -  **Singleton**
