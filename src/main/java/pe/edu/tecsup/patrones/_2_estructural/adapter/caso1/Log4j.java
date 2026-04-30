@@ -1,4 +1,4 @@
-package pe.edu.tecsup.patrones._2_estructural.adapter;
+package pe.edu.tecsup.patrones._2_estructural.adapter.caso1;
 
 public class Log4j {
 
