@@ -38,8 +38,8 @@ public class Aplicacion {
         // Crear un producto con 0 valor de inicializacion e
         // Producto prod4 = new Producto();
 
-        Producto prod4  =  Producto.builder()
-                .build();
+        Producto prod4  =  Producto.builder().build();
+
 
         System.out.println(prod4.toString());
 
