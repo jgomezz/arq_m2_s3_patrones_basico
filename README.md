@@ -6,5 +6,7 @@
 -  **Singleton**
 
 ### 2. Patrones Estructurales
+- **Adapter** 
+
 
 ### 3. Patrones de Comportamiento

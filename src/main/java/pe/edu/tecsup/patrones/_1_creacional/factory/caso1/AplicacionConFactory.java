@@ -1,4 +1,4 @@
-package pe.edu.tecsup.patrones.creacional.factory.caso1;
+package pe.edu.tecsup.patrones._1_creacional.factory.caso1;
 
 public class AplicacionConFactory {
 

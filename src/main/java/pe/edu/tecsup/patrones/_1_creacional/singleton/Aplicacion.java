@@ -1,4 +1,4 @@
-package pe.edu.tecsup.patrones.creacional.singleton;
+package pe.edu.tecsup.patrones._1_creacional.singleton;
 
 public class Aplicacion {
 

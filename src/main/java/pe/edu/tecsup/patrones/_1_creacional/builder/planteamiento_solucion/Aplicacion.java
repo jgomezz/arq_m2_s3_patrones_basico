@@ -1,4 +1,5 @@
-package pe.edu.tecsup.patrones.creacional.builder.planteamiento_solucion_2;
+package pe.edu.tecsup.patrones._1_creacional.builder.planteamiento_solucion;
+
 
 public class Aplicacion {
 
@@ -25,7 +26,6 @@ public class Aplicacion {
 
         System.out.println(prod2.getPrecio());
 
-
         // Crear un producto con 1 valor de inicializacion : nombre
         // Producto prod3 = new Producto("Lenteja");
 
@@ -35,11 +35,12 @@ public class Aplicacion {
 
         System.out.println(prod3.getNombre());
 
+
         // Crear un producto con 0 valor de inicializacion e
         // Producto prod4 = new Producto();
 
-        Producto prod4  =  Producto.builder().build();
-
+        Producto prod4  =  Producto.builder()
+                .build();
 
         System.out.println(prod4.toString());
 

@@ -1,4 +1,4 @@
-package pe.edu.tecsup.patrones.creacional.builder.planteamiento_solucion;
+package pe.edu.tecsup.patrones._1_creacional.builder.planteamiento_solucion;
 
 public class Producto {
 

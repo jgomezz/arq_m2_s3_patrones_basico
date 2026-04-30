@@ -1,4 +1,4 @@
-package pe.edu.tecsup.patrones.creacional.factory.caso2;
+package pe.edu.tecsup.patrones._1_creacional.factory.caso2;
 
 public class AeronaveFactory {
 
