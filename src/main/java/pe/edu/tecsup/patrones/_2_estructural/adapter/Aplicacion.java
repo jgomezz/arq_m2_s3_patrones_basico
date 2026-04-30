@@ -6,6 +6,8 @@ public class Aplicacion {
 
         Logger logger = new LoggerLegacy();
 
+//        Logger logger = new Log4jAdapter();
+
         logger.log("Inicializar aplicacion");
 
     }

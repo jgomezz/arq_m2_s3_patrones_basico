@@ -4,6 +4,6 @@ public class LoggerLegacy implements Logger {
 
     @Override
     public void log(String msg) {
-        System.out.println("[Legacy INFO] " + msg);
+        System.out.println("[Legacy INFO]: " + msg);
     }
 }
