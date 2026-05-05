@@ -9,5 +9,6 @@
 - **Adapter** 
 - **Facade**
 
-
 ### 3. Patrones de Comportamiento
+
+- **Observer**
