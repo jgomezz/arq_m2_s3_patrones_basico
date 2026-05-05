@@ -13,3 +13,4 @@
 
 - **Observer**
 - **Strategy**
+- **State**
