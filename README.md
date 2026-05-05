@@ -12,3 +12,4 @@
 ### 3. Patrones de Comportamiento
 
 - **Observer**
+- **Strategy**
